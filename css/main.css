@@ -1515,3 +1515,28 @@ section,
   margin-right: 8px;
   color: var(--accent-color);
 }
+
+
+/* Contact email polish */
+.contact .info-wrap {
+  padding: 28px 20px;
+}
+
+.contact .info-item h3 {
+  font-size: 1.15rem;
+  margin-bottom: 6px;
+}
+
+.contact .info-item p {
+  font-size: 1.05rem;   /* slightly larger */
+  font-weight: 500;
+  color: #555;          /* softer than pure black */
+  letter-spacing: 0.2px;
+  margin: 0;
+}
+
+.contact .info-item i {
+  font-size: 1.3rem;
+  margin-right: 14px;
+}
+
